@@ -1,2 +1,2 @@
-# wegovy-cal
-dose calculator between 
+# wegovy-計算器
+1.0 1.7 2.4mg 筆型針劑劑量格數換算 
